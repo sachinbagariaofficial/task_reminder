@@ -1,0 +1,18 @@
+.status_OnGoing{
+    background-color: #cfcfcf !important;
+    justify-content: center;
+}
+.dashboard {
+    padding: 24px;
+  }
+
+  .status_Completed{
+    background-color: #9df0ca !important;
+    justify-content: center;
+    margin-top: 10px;
+}
+.datetimepicker-control-section {
+    max-width: 246px;
+    margin: 30px auto;
+    padding-top: 50px;
+}
